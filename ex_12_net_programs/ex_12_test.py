@@ -10,9 +10,11 @@ ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
-#url = input('Enter - ')
+url = input('Enter - ')
 #url = 'http://py4e-data.dr-chuck.net/comments_42.html'
-url = 'http://py4e-data.dr-chuck.net/comments_1196474.html'
+#url = 'http://py4e-data.dr-chuck.net/comments_1196474.html'
+
+# open and handle URL
 html = urlopen(url, context=ctx).read()
 soup = BeautifulSoup(html, "html.parser")
 
