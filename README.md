@@ -2,8 +2,9 @@
 This is my workbook for Dr. Chucks Coursera specialization "Python for everybody".
 Link: https://www.coursera.org/specializations/python
 
-It's really good and includes not just five courses but also the link to his book with further exercises.
-See: https://books.trinket.io/pfe/index.html
+It's a great guide for beginners because its going into detail quickly but on the other hand really pushes to participate and try things by yourself. Dr. Chuck also has this natural and easy going way of explaining complex cases. Additionally, the specialization includes not just five courses but also the link to his book with further exercises. See: https://books.trinket.io/pfe/index.html.
+
+Py4e Github Repository: https://github.com/csev/py4e
 
 These are the chapters:
 * Chapter 1: Introduction
@@ -17,7 +18,7 @@ These are the chapters:
 * Chapter 9: Dictionaries
 * Chapter 10: Tuples
 * Chapter 11: Regex
-* Chapter 12: Networked Programs
+* Chapter 12: Networked Programs (using XML and JSON)
 * Chapter 13: Python and Web Services
 * Chapter 14: Objects
 * Chapter 15: Python and Databases
